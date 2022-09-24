@@ -1,0 +1,5 @@
+This project does not work as intended because git LFS is not supported by Github Pages.
+The sister project juliafromtar will work as long as the .deb files are under 100 MB in size.
+
+This project is basically here to serve as an example of how to use Git LFS with Github.
+
